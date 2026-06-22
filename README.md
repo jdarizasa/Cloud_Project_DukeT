@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/jdarizasa/Cloud_Project_DukeT/actions/workflows/main.yml/badge.svg)](https://github.com/jdarizasa/Cloud_Project_DukeT/actions/workflows/main.yml)
+
 # Cloud_Project_DukeT
 This is a demo repo for implementing cloud computing
 
